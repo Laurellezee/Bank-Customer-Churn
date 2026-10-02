@@ -8,7 +8,6 @@ The bank is experiencing an unexplained volume of customer attrition. The object
 
 ## Tools Used
 * **Microsoft Excel:** Data Cleaning, Pivot Tables, Data Modeling, Dashboard Visualization.
-* **AI Assistance:** utilized for report formatting and data interpretation structuring.
 
 ## Data Transformation and Cleaning
 Before analysis, the raw data was audited and prepared to ensure accuracy. 
